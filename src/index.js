@@ -13,6 +13,7 @@ ReactDOM.render(
     {Sdata.map((value) => {
       return (
         <Card
+          key = {value.id}
           imgsrc={value.imgSource}
           title={value.stitle}
           seriesName={value.sName}
