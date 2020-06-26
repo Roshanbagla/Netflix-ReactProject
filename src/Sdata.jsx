@@ -31,7 +31,14 @@ const Sdata = [
         stitle : " Netflix Orignal Series",
         sName : "Suits",
         links : "https://www.netflix.com/au/title/70195800"
+    },
+    {
+        imgSource : "https://wallpapercave.com/wp/wp4886406.jpg",
+        stitle : " Netflix Orignal Series",
+        sName : "Daredevil",
+        links : "https://www.netflix.com/au/title/80018294"
     }
+
 ]
 
 export default Sdata;
