@@ -4,5 +4,7 @@ Created a react project, which contains my top favourite 5 Netflix show. This pr
 
 1. ReactJS
 2. VS Code
-3. Heroku
+3. AWS Amplify
 4. HTML, CSS, JavaScript and JSX
+
+I deployed this project on AWS and the link is: https://master.d31wujggzkk4vd.amplifyapp.com/
